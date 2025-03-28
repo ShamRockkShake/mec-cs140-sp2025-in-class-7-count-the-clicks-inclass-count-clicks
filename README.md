@@ -1,4 +1,4 @@
-# CS 140 In Class Assignment: Button Counter
+# CS 140 In Class Assignment 7: Button Counter
 
 Create a simple interactive web page using HTML and JavaScript. This page will contain a button that, when clicked, increments a counter displayed on the page. An alert will display every time the counter reaches an even number.
 
