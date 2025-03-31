@@ -5,10 +5,10 @@ function clickEvent() {
   count++;
   console.log(count);
   document.getElementById("clickCount").textContent = "Click count: " + count;
-
+  
   if (count % 2 === 0) {
-    alert("Count is even: " + count);
+  alert("Count is even: " + count);
   }
-}
-
-document.getElementById("myButton").onclick = clickEvent;
+  }
+  
+  document.getElementById("myButton").onclick = clickEvent;
